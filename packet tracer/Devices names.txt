@@ -1,0 +1,23 @@
+Lab-1:
+1.Router : Miscellaneous theke 1841 
+2.PC : End Device or Miscellaneou theke PC
+3.Switch : Miscellaneous theke 2960 
+Lab-2:
+1.Router : Miscellaneous theke 2811 NM-ESW-161
+2.PC : End Device or Miscellaneou theke PC
+3.Switch : Miscellaneous theke 2960 
+Lab-3:
+Same as Lab-2
+Lab-4:
+1.Router : Miscellaneous theke 2811 NM-ESW-161
+2.Router : Miscellaneous theke 1841 (ISP and HQ ar jonno)
+3.Server : End Device theke Server-PT
+4.Switch : Miscellaneous theke 2960 
+Lab-5:
+Same as Lab-4
+Lab-7:
+1.Router : Miscellaneous theke 1841 or 2811 NM-ESW-161
+Lab-9:
+1.Router : Miscellaneous theke 1841 
+2.PC : End Device or Miscellaneou theke PC
+3.Switch : Miscellaneous theke 2960 
